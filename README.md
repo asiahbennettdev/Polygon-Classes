@@ -8,8 +8,8 @@ Python
 
 Why use classes: 
 1.	Safe from bugs 
-  #a.	Isolate different parts of our system
-  #b.	Can write Test cases for 1 class while abstracting details of other dependencies 
+  a.	Isolate different parts of our system
+  b.	Can write Test cases for 1 class while abstracting details of other dependencies 
 2.	Easy to understand 
   a.	Provides structure to code 
   b.	Can group variables and methods that share object and functionality together , and separate objects from one another 
